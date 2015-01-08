@@ -1,4 +1,4 @@
-dataomaha-app
+Dataomaha Django app
 =============
 
-A starting point for Django apps hosted on Dataomaha.
+A template for Django apps hosted on <a href="http://www.dataomaha.com">Dataomaha.com</a>.
